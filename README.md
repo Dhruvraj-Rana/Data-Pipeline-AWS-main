@@ -59,7 +59,7 @@ Following is the architecture of the project.
 
 ## Dashboard
 
-Access simplified dashboard from <a https://github.com/Dhruvraj-Rana/Data-Pipeline-AWS-main/blob/main/assets/dashboard.pdf>here</a>.
+Access simplified dashboard from https://github.com/Dhruvraj-Rana/Data-Pipeline-AWS-main/blob/main/assets/dashboard.pdf 
 
 
 ## Screenshots
